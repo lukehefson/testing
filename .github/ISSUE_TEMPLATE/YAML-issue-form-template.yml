@@ -26,6 +26,11 @@ body:
     value: "A bug happened!"
   validations:
     required: true
+- type: input
+  id: test
+  attributes:
+    label: <!-- test -->
+    description: <!-- burger -->
 - type: dropdown
   id: version
   attributes:
