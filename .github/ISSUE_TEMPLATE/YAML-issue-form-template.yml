@@ -29,8 +29,12 @@ body:
 - type: input
   id: test
   attributes:
-    label: <!-- test -->
-    description: <!-- burger -->
+    label: http://github.com/
+    description: <!-- hotdog -->
+    placeholder: Please don't submit content in this field
+    value: "Please don't submit content in this field"
+  validations:
+    required: true
 - type: dropdown
   id: version
   attributes:
