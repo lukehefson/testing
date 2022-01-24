@@ -19,7 +19,7 @@ look like:
 > written like so.
 >
 > > They can be nested and span multiple paragraphs,
-> > if you like.
+> > if you like!
 
 ```
 This is a code block
