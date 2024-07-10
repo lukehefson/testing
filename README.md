@@ -32,4 +32,5 @@ This is a code block
 How about [a text link](http://ham.com)
 
 Or an image link of a lovely kitten:
+
 ![](http://bit.ly/1RXe87U)
