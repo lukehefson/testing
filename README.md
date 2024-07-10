@@ -2,8 +2,6 @@
 
 ## This is h2
 
-Paragraphs are separated by a blank line.
-
 2nd paragraph. *Italic*, **bold**, and `monospace`. Unordered lists
 look like:
 
@@ -24,6 +22,8 @@ This is a code block
 <kbd>Press me!</kbd>
 ```
 
+Inserted some text here.
+
 - [ ] GFM Task Lists
   - [ ] Can also be nested
 - [ ] They can also
@@ -31,6 +31,6 @@ This is a code block
 
 How about [a text link](http://ham.com)
 
-Or an image link of a lovely kitten:
+Or an image link of a lovely cat:
 
 ![](http://bit.ly/1RXe87U)
