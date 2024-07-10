@@ -29,7 +29,7 @@ Inserted some text here.
 - [ ] They can also
   - [ ] Be re-arranged
 
-How about [a text link](http://ham.com)
+How about [a text link](http://cheese.com)
 
 Or an image link of a lovely cat:
 
