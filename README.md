@@ -4,6 +4,8 @@
 
 Paragraphs are separated by a blank line.
 
+Here's another para.
+
 2nd paragraph. *Italic*, **bold**, and `monospace`. Unordered lists
 look like:
 
