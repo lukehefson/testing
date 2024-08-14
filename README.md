@@ -2,6 +2,14 @@
 
 ## This is h2
 
+Some text
+
+### And now a h3
+
+and…
+
+#### An h4 header
+
 Paragraphs are separated by a blank line.
 
 Here's another para.
