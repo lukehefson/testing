@@ -12,7 +12,7 @@ and…
 
 Paragraphs are separated by a blank line.
 
-Here's another para.
+Here's another paragraph.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Unordered lists
 look like:
