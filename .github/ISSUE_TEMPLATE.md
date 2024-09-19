@@ -1,8 +1,8 @@
-## What <!-- What is being requested or suggested? What user flow are people taking? -->
+## What <!-- What is being suggested? What user-flow are people taking? -->
 
 - TODO
 
-## Why <!-- Consider the outcome(s) for customers this enables. -->
+## Why <!-- Consider the outcome for customers this enables. -->
 
 - TODO
 
