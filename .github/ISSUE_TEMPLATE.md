@@ -1,29 +1,17 @@
----
-name: Tracking issue
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: bug, question
-assignees: lukehefson
----
+## What <!-- What is being requested or suggested? What user flow are people taking? -->
+
+- TODO
+
+## Why <!-- Consider the outcome(s) for customers this enables. -->
+
+- TODO
 
 <!-- 
-⚠️ Please make sure that you add as much of the following as possible!
-💡 Labels are cheap and help to draw connections between product themes. Go nuts with them →
--->
-
-### What
-What is being requested or suggested?
-
-- TODO
-
-### Why
-Consider what outcome(s) this enables.
-
-- TODO
-
-### Who
-
+⚠️ Pleaser add requestors in a new comment with as much of the following context as possible
 - Customer name: 
 - Current or prospective customer: 
-- Call notes and/or video link:
-> Any pertinent quotes from the customer here
+- Call notes/video link/slack convo:
+- Pertinent quotes
+
+👋 Labels are cheap and help to draw connections between product themes. Go nuts →
+-->
