@@ -1,3 +1,11 @@
+---
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: bug, question
+assignees: lukehefson
+---
+
 <!-- 
 ⚠️ Please make sure that you add as much of the following as possible!
 💡 Labels are cheap and help to draw connections between product themes. Go nuts with them →
