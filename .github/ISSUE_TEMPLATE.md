@@ -1,5 +1,5 @@
 <!-- 
-⚠️ Please make sure that you add as much of the following as possible! (…although none of these fields are mandatory)
+⚠️ Please make sure that you add as much of the following as possible!
 💡 Labels are cheap and help to draw connections between product themes. Go nuts with them →
 -->
 
