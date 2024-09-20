@@ -2,7 +2,7 @@
 
 - TODO
 
-## Why <!-- Consider the outcome for customers this enables. -->
+## Why <!-- Consider the _outcome_ for customers this enables. -->
 
 - TODO
 
