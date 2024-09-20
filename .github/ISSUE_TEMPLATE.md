@@ -1,4 +1,4 @@
-## What <!-- What is being suggested? What user-flow are people taking? -->
+## What <!-- What is being suggested? What is the user-flow? -->
 
 - TODO
 
