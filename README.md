@@ -24,7 +24,7 @@ look like:
     3. Tres
 
 > Block quotes are
-> written like so.
+> written like this.
 >
 > > They can be nested and span multiple paragraphs,
 > > if you like.
