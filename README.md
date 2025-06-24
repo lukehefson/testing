@@ -2,7 +2,7 @@
 
 Body text.
 
-# H2
+## H2
 
 Body text.
 
