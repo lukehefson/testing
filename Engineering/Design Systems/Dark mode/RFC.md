@@ -1,8 +1,8 @@
-# H1
+# Headings — this is H1
 
 Body text.
 
-## H2
+# H2
 
 Body text.
 
@@ -22,7 +22,7 @@ Body text.
 
 Body text.
 
-## Text Styling
+# Text Styling
 
 **Bold**  
 *Italic*  
@@ -33,7 +33,7 @@ Body text.
 <sup>Superscript</sup>
 <h6>h6… for some strange reason?</h6>
 
-## Lists
+# Lists
 
 - Unordered item
   - Nested unordered item
@@ -51,7 +51,7 @@ Body text.
     1. Deep nested ordered item
   - [ ] Nested task list item
 
-## Links
+# Links
 
 [Inline link](https://github.com)  
 [Section link to H6 heading](#h6)  
@@ -59,11 +59,11 @@ Body text.
 
 [ref]: https://github.com
 
-## Code
+# Code
 
 Example of inline `code`
 
-### Code block examples
+## Code block examples
 
 ```bash
 # Code block with bash
@@ -85,14 +85,16 @@ function hi() {
 # Comment
 ```
 
-## Blockquotes
+# Blockquotes
 
 > Block quotes are written like so.
 >
 > > They can be nested and span multiple paragraphs.
 > > If you like.
 
-## Tables
+# Tables
+
+## Vanilla
 
 | Feature   | Supported |
 | --------- | --------- |
@@ -100,11 +102,18 @@ function hi() {
 | Tables    | ✅         |
 | Task list | ✅         |
 
-## Emoji
+## Aligned
+
+| Left     | Center   | Right    |
+|:---------|:--------:|---------:|
+| a        | b        | c        |
+| d        | e        | f        |
+
+# Emoji
 
 :shipit:
 
-## Mentions and References
+# Mentions and References
 
 Mention: @octocat
 Issue referenced by number: #1
@@ -112,7 +121,7 @@ Pull request referenced by URL: https://github.com/wesbos/dad-jokes/pull/224
 
 - When an issue or PR reference is featured within a list item the full title gets rendered: https://github.com/left-pad/left-pad/issues/30
 
-## Footnotes
+# Footnotes
 
 Here is a simple footnote. Zoom to the bottom to see the reference [^1].
 
@@ -122,7 +131,7 @@ A footnote can also have multiple lines [^2].
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
-## Alerts 
+# Alerts 
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -139,7 +148,7 @@ A footnote can also have multiple lines [^2].
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-## Details
+# Details
 
 <details>
   <summary>Click to expand!</summary>
@@ -148,7 +157,7 @@ This is hidden content revealed on click.
 
 </details>
 
-## Images
+# Images
 
 Vanilla image link:
 ![A lovely kitten](http://bit.ly/1RXe87U)
@@ -158,15 +167,15 @@ Vanilla image link:
 <p>Or, a centred image with centred text and the image size reduced.</p>
 </div>
 
-## Color modes
+# Color modes
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-## Horizontal Rule
+# Horizontal Rule
 
 ---
 
-## Line breaks
+# Line breaks
 
 In a markdown file, this example 
 won't span two lines (in a comment it will)
@@ -174,13 +183,13 @@ won't span two lines (in a comment it will)
 In a markdown file, this example\
 Will span two lines
 
-## Escaping
+# Escaping
 
 \*Literal asterisks\*  
 \# Not a heading  
 \> Not a blockquote  
 
-## HTML Elements
+# HTML Elements
 
 <p>This is a raw HTML paragraph in Markdown.</p>
 <kbd>⌘+C</kbd> is the copy shortcut on macOS.
