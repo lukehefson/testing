@@ -27,9 +27,11 @@ Body text.
 **Bold**  
 *Italic*  
 ~~Strikethrough~~  
+<samp>Monospaced</samp>
 <ins>Underline (HTML)</ins>  
 <sub>Subscript</sub>  
 <sup>Superscript</sup>
+<h6>h6… for some strange reason?</h6>
 
 ## Lists
 
@@ -148,7 +150,13 @@ This is hidden content revealed on click.
 
 ## Images
 
+Vanilla image link:
 ![A lovely kitten](http://bit.ly/1RXe87U)
+
+<div align="center">
+<img src="http://bit.ly/1RXe87U" width="200">
+<p>Or, a centred image with centred text and the image size reduced.</p>
+</div>
 
 ## Color modes
 
