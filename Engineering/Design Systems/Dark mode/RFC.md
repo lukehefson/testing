@@ -150,9 +150,21 @@ This is hidden content revealed on click.
 
 ![A lovely kitten](http://bit.ly/1RXe87U)
 
+## Color modes
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 ## Horizontal Rule
 
 ---
+
+## Line breaks
+
+In a markdown file, this example 
+won't span two lines (in a comment it will)
+
+In a markdown file, this example\
+Will span two lines
 
 ## Escaping
 
